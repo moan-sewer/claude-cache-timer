@@ -2,6 +2,9 @@
 
 A Claude Code status line that shows **how long your prompt cache has left** and **what to do about your context**, so you stop guessing whether stepping away will cost you.
 
+<img width="1100" height="406" alt="screenshot of timer with helpful MANtroid sticker" src="https://github.com/user-attachments/assets/5bd1d419-7ab1-45c2-a091-6fefc63ad6a8" />
+
+
 ```
 Cache 47:12 (1h)  |  ctx 6% cheap restart
 Cache 3:20 (5m)   |  ctx 55% /compact at next break
